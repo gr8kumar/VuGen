@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+P3P: policyref="https://googleads.g.doubleclick.net/pagead/gcn_p3p_.xml", CP="CURa ADMa DEVa TAIo PSAo PSDo OUR IND UNI PUR INT DEM STA PRE COM NAV OTC NOI DSP COR"
+Timing-Allow-Origin: *
+Date: Tue, 02 Jun 2020 06:48:12 GMT
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, must-revalidate
+Strict-Transport-Security: max-age=21600
+Content-Type: text/html; charset=UTF-8
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Server: cafe
+X-XSS-Protection: 0
+Set-Cookie: test_cookie=CheckForPermission; expires=Tue, 02-Jun-2020 07:03:12 GMT; path=/; domain=.doubleclick.net; Secure; SameSite=none
+Alt-Svc: h3-27=":443"; ma=2592000,h3-25=":443"; ma=2592000,h3-T050=":443"; ma=2592000,h3-Q050=":443"; ma=2592000,h3-Q049=":443"; ma=2592000,h3-Q048=":443"; ma=2592000,h3-Q046=":443"; ma=2592000,h3-Q043=":443"; ma=2592000,quic=":443"; ma=2592000; v="46,43"
+Transfer-Encoding: chunked
+

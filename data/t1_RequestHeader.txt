@@ -1,0 +1,14 @@
+POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard HTTP/1.1
+Host: accounts.google.com
+Connection: keep-alive
+Content-Length: 1
+Origin: https://www.google.com
+Content-Type: application/x-www-form-urlencoded
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cookie: CONSENT=YES+IN.en+20171126-09-0; ACCOUNT_CHOOSER=AFx_qI7rynBQWaryapCfXAz_UcQFSdt435MNcyxIy82ysBp6OD1g3Kay9QOF1vuaQmXUfGoQae8ObNaGgcAFGkfyiP-HMR_6D953vK5fWHpI6MTmQx6ipNUKAVBygyovHS0XYnMdYSb9UetfW3Q1e3bz8mvXFzL9gfo8KB1ihmY4rJ-i5-t0Iq2n7gTuF7_Eai4yEpGI9ESA_8cZlUF7sSWuMo-9lYXUfA; SMSV=ADHTe-CP-_bia1FdOlK6ueVwauNhXbT0uh_HnEnDxDZGkEVFBYlYc3UebBDAUPBBOoQT0sHukDC8jiH1_i2-Xi_l4q8Qq-OSQGpY6pOmEq6z3WISdMj925M; SEARCH_SAMESITE=CgQI448B; ANID=AHWqTUnCQW8s1h7UqtPjRCsZdzvr7GjxE0uPLB7KzIGR0T6fYl326M4F1cL0mmwj; LSOLH=_SVI_Ch9RejZfaHpTWDQzVVN3TEM4U1VQdkI1YVZudjRESmhjEM7Yoc3_2OkCGBAiP01BRURIZl9xTWVaUTVZR2phYkNhRlNyX05OeHZPa2wtdkp1cXFKVW0tbS13SFN1VjFkc2I5WnZ1NnZpV0VTSQ_:26512560:9347; NID=204=mXFihPo9vz6Kp1pZtbcgSuR-hU5GsoSWNghNWt5b5K2VAbbVGgVbuKwc2_nYQ4Ew-0KhdSTr0554IUf1dLWLbxynvrrVgdiAOGA6MpiVh0p8HVZx-zK9j33ngxKZSi5HeSoLAs2ueFLC2MFdw6WXsHPRExrjVuchTLvx6573fCCioETTyjqgWdlKr8hxdNOIot9QoZLHEzlG_4tg3JUMaGkjDg; GAPS=1:DABLxzLWCyZ9y6whlv50yCtFja3qaX6qrqwUgmI6wPkS4mOiAU9-sVQ3xMgUjv8OqkNgy2lDJ5gznY4jDgZGQp3b3AOoHRzUUwPx-a_ti-H95w:pX9KxNf5Wdv_G_o6; __Host-GAPS=1:DABLxzLWCyZ9y6whlv50yCtFja3qaX6qrqwUgmI6wPkS4mOiAU9-sVQ3xMgUjv8OqkNgy2lDJ5gznY4jDgZGQp3b3AOoHRzUUwPx-a_ti-H95w:pX9KxNf5Wdv_G_o6; 1P_JAR=2020-06-02-06
+

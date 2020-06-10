@@ -1,0 +1,14 @@
+GET /member/prewelcome.do?currentLanguageFromPreCheck=en HTTP/1.1
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: www.myuhc.com
+Cookie: AMCV_8E391C8B533058250A490D4D%40AdobeOrg=281789898%7CMCIDTS%7C18416%7CvVersion%7C4.1.0; dtPC=480441627_1h2; check=true; mbox=session#e7b89aab91904d43b4645bb0fc774250#1591082316
+

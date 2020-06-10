@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Server: Apache
+P3P: policyref="/w3c/p3p.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"
+Content-Type: image/gif
+Expires: Tue, 02 Jun 2020 07:07:46 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 02 Jun 2020 07:07:46 GMT
+Content-Length: 43
+Connection: keep-alive
+Set-Cookie: CMID=XtX6wWdoM0YAADxvQbgAAACl;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Wed, 02 Jun 2021 07:07:46 GMT
+Set-Cookie: CMPS=838;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Mon, 31 Aug 2020 07:07:46 GMT
+Set-Cookie: CMPRO=914;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Mon, 31 Aug 2020 07:07:46 GMT
+Set-Cookie: CMST=XtX6wl7V+sIA;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Wed, 03 Jun 2020 07:07:46 GMT
+Set-Cookie: CMRUM3=275ed5fac22760fb0049ad-7a48-4d8b-8bd2-8d5cc5a0ce14;domain=casalemedia.com;path=/;sameSite=None;Secure;expires=Wed, 02 Jun 2021 07:07:46 GMT
+

@@ -1,0 +1,15 @@
+[t10]
+FileName1=t10.html
+URL1=https://prd.myuhc.com/apps/myuhc/logout
+Total=3
+RequestHeaderFile=t10_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t10_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_10.xml
+FileName2=t10_bat.html
+URL2=https://bat.bing.com/bat.js
+FileName3=t10_s-code-contents-204eb6f41a16512e2cec480a1e4365a68a6e0559.html
+URL3=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/s-code-contents-204eb6f41a16512e2cec480a1e4365a68a6e0559.js
+[ProtocolInfo]
+ProtocolId=QTWeb

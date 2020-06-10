@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+  <body>
+    <script>
+      (function(){
+        function escapeForHtml(str){
+          if (!str) return str
+          return str
+            .replace(/\&/g, '&amp;')
+            .replace(/\</g, '&lt;')
+            .replace(/\>/g, '&gt;')
+            .replace(/\"/g, '&quot;')
+            .replace(/\'/g, '&#x27;')
+            .replace(/\//g, '&#x2F;')
+        }
+
+        var regexChars = /[.*+?^${}()|[\]\\]/g;
+        function escapeForRegex(str) {
+          return str.replace(regexChars, "\\$&");
+        }
+
+        function parseQueryString(){
+          var ret = {}, parts = location.search.substring(1).split('&');
+          for (var i = parts.length; i--;) {
+            var vardef = parts[i].split('='), varname = vardef[0], value = vardef[1];
+            ret[varname] = unescape(value);
+          }
+          return ret;
+        }
+
+        var queryParams = parseQueryString();
+
+        var markup = "<!--\nStart of Floodlight Tag: Please do not remove\nActivity name of this tag: LPG_E&I_myuhc Home Page - Site Visit\nURL of the webpage where the tag is expected to be placed: https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en\nThis tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.\nCreation Date: 08/27/2019\n-->\n<script type=\"text/javascript\">\nvar axel = Math.random() + \"\";\nvar a = axel * 10000000000000;\ndocument.write('<iframe src=\"https://8584968.fls.doubleclick.net/activityi;src=8584968;type=eiutv0;cat=lpg_e05w;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=' + a + '?\" width=\"1\" height=\"1\" frameborder=\"0\" style=\"display:none\"></iframe>');\n</scr"+"ipt>\n<noscript>\n<iframe src=\"https://8584968.fls.doubleclick.net/activityi;src=8584968;type=eiutv0;cat=lpg_e05w;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?\" width=\"1\" height=\"1\" frameborder=\"0\" style=\"display:none\"></iframe>\n</noscript>\n<!-- End of Floodlight Tag: Please do not remove -->";
+
+        for (var name in queryParams){
+          var regex = new RegExp('%' + escapeForRegex(name) + '%', 'ig');
+          markup = markup.replace(regex, 
+            escapeForHtml(queryParams[name]));
+        }
+
+        document.write(markup)
+      })();
+    </script>
+  </body>
+</html>

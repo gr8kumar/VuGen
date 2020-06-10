@@ -1,0 +1,13 @@
+[t20]
+FileName1=t20_InviteTriggers.json
+URL1=https://api.iperceptions.com/InviteTriggers
+Total=2
+ContentType=application/json
+SnapshotXmlFile=snapshot_20.xml
+RequestHeaderFile=t20_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t20_ResponseHeader.txt
+FileName2=t20_IpEngine_v77.4.html
+URL2=https://universal.iperceptions.com/core/IpEngine_v77.4.js
+[ProtocolInfo]
+ProtocolId=QTWeb

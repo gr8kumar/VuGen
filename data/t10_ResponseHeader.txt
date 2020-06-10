@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Date: Tue, 02 Jun 2020 06:48:04 GMT
+Server: Apache
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+X-OneAgent-JS-Injection: true
+X-dynaTrace-JS-Agent: true
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Access-Control-Allow-Origin: *
+Set-Cookie: OAUTHTOKEN="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: LOGGEDINUSER="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: SEGMENTSTORE="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: TOKEN_EXPIRES_IN="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: LANDING_URI="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: HSIDUSER="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: EPMPENABLED="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: ENCRYPTA4KEY="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: REFERRERURL="";Version=1;Path=/;Domain=.myuhc.com;Expires=Thu, 01-Jan-1970 00:00:00 GMT;Max-Age=0
+Set-Cookie: dtCookie=B3DF9A6AC31883ED45D3C1C8B4D628B1|bXlVSEN8MXxNeVVIQzJ8MQ; Path=/; Domain=.myuhc.com
+Content-Length: 515
+Keep-Alive: timeout=15, max=1000
+Connection: Keep-Alive
+Content-Type: text/html; charset=ISO-8859-1
+Set-Cookie: BIGipServerprd1.myuhc.com_8080=727855114.36895.0000; path=/
+

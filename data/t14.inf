@@ -1,0 +1,11 @@
+[t14]
+FileName1=t14_0.html
+URL1=https://bat.bing.com/action/0?ti=28088867&Ver=2&mid=5e3bec77-7998-3af6-1f19-94951a954fc9&sid=04ded512-3435-9e0d-df9c-87607298d98c&pi=1200101525&lg=en-IN&sw=1366&sh=768&sc=24&tl=myuhc%20-%20Member%20Login%20%7C%20UnitedHealthcare&p=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&r=&lt=36490&evt=pageLoad&msclkid=N&sv=1&rn=433562
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_14.xml
+RequestHeaderFile=t14_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t14_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,14 @@
+GET /apps/myuhc/logout HTTP/1.1
+Host: prd.myuhc.com
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Dest: iframe
+Referer: https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cookie: TS01e8b185=011730d7d7a5efad1db7f9e7634c4dd0406e0cb88b39a9f1f1fe9a322c80bdde6bbbd2255cf463c970c85aed831ce104a38f6529f0f906208bae43e210aaa13ffac4d278bc; dtSa=-; dtLatC=9343; dtCookie=B3DF9A6AC31883ED45D3C1C8B4D628B1|bXlVSEN8MQ; AMCV_8E391C8B533058250A490D4D%40AdobeOrg=281789898%7CMCIDTS%7C18416%7CvVersion%7C4.1.0; dtPC=480441627_1h2; check=true; mbox=session#e7b89aab91904d43b4645bb0fc774250#1591082316
+

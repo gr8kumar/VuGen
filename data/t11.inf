@@ -1,0 +1,13 @@
+[t11]
+FileName1=t11.html
+URL1=https://www.myuhc.com/member/dynaTraceMonitor?type=js&session=B3DF9A6AC31883ED45D3C1C8B4D628B1%7CbXlVSEN8MQ&flavor=post&referer=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&modifiedSince=1585332593548&app=myUHC
+Total=2
+RequestHeaderFile=t11_RequestHeader.txt
+RequestBodyFile=t11_RequestBody.txt
+ResponseHeaderFile=t11_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_11.xml
+FileName2=t11_fbevents.html
+URL2=https://connect.facebook.net/en_US/fbevents.js
+[ProtocolInfo]
+ProtocolId=QTWeb

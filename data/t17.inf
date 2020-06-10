@@ -1,0 +1,11 @@
+[t17]
+FileName1=t17_sync.html
+URL1=https://ups.analytics.yahoo.com/ups/55953/sync?uid=1f37d1c9-ba2a-4492-8488-f92acfe21b20&_origin=1&gdpr=0&gdpr_consent=&apid=UP0d352a64-a49d-11ea-b8c0-06f48a59a204&verify=true
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_17.xml
+RequestHeaderFile=t17_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t17_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

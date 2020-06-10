@@ -1,0 +1,15 @@
+[t13]
+FileName1=t13.json
+URL1=https://unitedhealthgroup.tt.omtrdc.net/rest/v1/delivery?client=unitedhealthgroup&sessionId=e7b89aab91904d43b4645bb0fc774250&version=2.1.0
+Total=3
+RequestHeaderFile=t13_RequestHeader.txt
+RequestBodyFile=t13_RequestBody.txt
+ResponseHeaderFile=t13_ResponseHeader.txt
+ContentType=application/json
+SnapshotXmlFile=snapshot_13.xml
+FileName2=t13_wrapper.html
+URL2=https://universal.iperceptions.com/wrapper.js
+FileName3=t13_js.html
+URL3=https://www.googletagmanager.com/gtag/js?id=AW-801664645
+[ProtocolInfo]
+ProtocolId=QTWeb

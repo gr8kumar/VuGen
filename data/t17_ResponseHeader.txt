@@ -1,0 +1,13 @@
+HTTP/1.1 204 No Content
+Date: Tue, 02 Jun 2020 06:48:31 GMT
+Strict-Transport-Security: max-age=31536000
+Set-Cookie: IDSYNC=1769~1rpi;Version=1;Domain=.analytics.yahoo.com;Path=/;Max-Age=31622400;Expires=Thu, 03-Jun-2021 06:48:31 GMT;Secure;SameSite=None
+Set-Cookie: APID=UP0d352a64-a49d-11ea-b8c0-06f48a59a204;Version=1;Domain=.yahoo.com;Path=/;Max-Age=18378688;Expires=Fri, 01-Jan-2021 00:00:00 GMT;Secure;SameSite=None
+Set-Cookie: APIDTS=1591080511;Version=1;Domain=.yahoo.com;Path=/;Max-Age=86400;Expires=Wed, 03-Jun-2020 06:48:31 GMT;Secure;SameSite=None
+P3P: CP=NOI DSP COR LAW CURa DEVa TAIa PSAa PSDa OUR BUS UNI COM NAV
+Age: 0
+Connection: keep-alive
+Server: ATS/7.1.2.113
+Set-Cookie: A3=d=AQABBD_21V4CECl4Ozha2wblhQ6WhuCyGvgFEgEBAQFH117fXgAAAAAA_SMAAAcIP_bVXuCyGvg&S=AQAAAq0Y6JK7O5v81plwgzlelwU; Max-Age=31557600; Domain=.yahoo.com; Path=/; SameSite=None; Secure; HttpOnly
+Set-Cookie: B=fg6lis1fdbthv&b=3&s=d5; Max-Age=31557600; Domain=.yahoo.com; Path=/
+

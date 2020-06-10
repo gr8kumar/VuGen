@@ -1,0 +1,18 @@
+HTTP/1.1 200 OK
+Date: Tue, 02 Jun 2020 17:29:41 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Set-Cookie: JSESSIONID=0000m7kqtVm-Sd6Ui28AUHp5ENG:19qtn8f7t; Path=/; Secure; HttpOnly
+Expires: Thu, 01 Dec 1994 16:00:00 GMT
+Cache-Control: no-cache="set-cookie, set-cookie2"
+X-dynaTrace-JS-Agent: true
+Set-Cookie: dtCookie=76922E486E2587B880038A319618A628|bXlVSEN8MQ; Path=/; Domain=.myuhc.com
+X-XSS-Protection: 1; mode=block
+Keep-Alive: timeout=10, max=1000
+Connection: Keep-Alive
+Content-Type: text/html;charset=ISO-8859-1
+Content-Language: en-US
+Set-Cookie: BIGipServermyuhc-elr.uhc.com_8080=!34mSs19pp09s1x+aDYcx7VR3Rb6nQ8yKeQlKT0olRS93Mn4W9nwXRCn4IuwuwkhZmKf6oIN+PECq; path=/
+Set-Cookie: TS01d0ccf9=011730d7d736c31943b000472e74d234165923522d3a101229b01e46e3465e3df72c90130ac6a98708c23df97462fbcba2831bc585a80ff763bd903860f4f6b92812bf1e6ef0b5477551cc015c861cc2de462e8ba8; Path=/; Secure; HTTPOnly
+Set-Cookie: TS01e8b185=011730d7d7983cb4da7f199e81bf5fb097b9a4e99b3a101229b01e46e3465e3df72c90130a0f11edf0af935b1a523d0f4403c84c24778ae26bb4978f53b33d26a3bac2c62e; path=/; domain=.myuhc.com; HTTPonly; Secure
+Transfer-Encoding: chunked
+

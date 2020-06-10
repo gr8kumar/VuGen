@@ -1,0 +1,11 @@
+[t8]
+FileName1=t8.html
+URL1=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5dcbb7e264746d1de1000c92.html
+Total=1
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_8.xml
+[ProtocolInfo]
+ProtocolId=QTWeb

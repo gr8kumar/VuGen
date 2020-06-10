@@ -1,0 +1,1267 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "upgrade-insecure-requests",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "securitytoken",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-user",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-site",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-mode",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "sec-fetch-dest",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "origin",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "intervention",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "if-none-match",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "access-control-request-method",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "access-control-request-headers",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "a-im",
+      "IncludeInScript": true
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/plain"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/jpeg"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/gif"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/x-javascript"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/octet-stream"
+    },
+    {
+      "IsNonResource": true,
+      "type": "application/json"
+    },
+    {
+      "IsNonResource": false,
+      "type": "application/javascript"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "IsWinInetMode": false,
+    "MaxUsedConnections": 47,
+    "RecordedBrowser": "Chrome",
+    "RecordingDate": "Jun-02-2020",
+    "RecordingDuration": 79687,
+    "RecordingMode": "N/A",
+    "RecordingTimeStamp": 1591080409,
+    "RecordingType": "Browser",
+    "TotalBytesReceived": 1948758,
+    "TotalBytesSent": 66090,
+    "TotalRequests": 68,
+    "UserAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36"
+  },
+  "HostInfo": [
+    {
+      "DomainName": "yahoo.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.74.13.196",
+          "IncludeInScript": true,
+          "Name": "ups.analytics.yahoo.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 94,
+              "EventId": 848,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://ups.analytics.yahoo.com/ups/55953/sync?uid=1f37d1c9-ba2a-4492-8488-f92acfe21b20&_origin=1&gdpr=0&gdpr_consent=&apid=UP0d352a64-a49d-11ea-b8c0-06f48a59a204&verify=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 94,
+              "EventId": 844,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://ups.analytics.yahoo.com/ups/55953/sync?uid=1f37d1c9-ba2a-4492-8488-f92acfe21b20&_origin=1&gdpr=0&gdpr_consent=&apid=UP0d352a64-a49d-11ea-b8c0-06f48a59a204"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "119.161.10.11",
+          "IncludeInScript": true,
+          "Name": "ads.yahoo.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 125,
+              "EventId": 874,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://ads.yahoo.com/cms/v1?esig=1%7efac06801624107e5d8ee63717a17d281e39cf167&nwid=10000480789&sigv=1&gdpr=0&gdpr_consent=&ttd_tdid=1f37d1c9-ba2a-4492-8488-f92acfe21b20"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "uhc.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "45.60.30.243",
+          "IncludeInScript": true,
+          "Name": "api.member.uhc.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 781,
+              "EventId": 357,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://api.member.uhc.com/rest/user/v1/session/logout"
+            }
+          ],
+          "SSLCipher": "TLS_AES_128_GCM_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "sessioncam.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "34.202.184.243",
+          "IncludeInScript": true,
+          "Name": "ws.sessioncam.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 407,
+              "EventId": 681,
+              "HttpStatus": 200,
+              "Size": 14,
+              "URL": "https://ws.sessioncam.com/Record/config.aspx?url=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&jsver=562&originalUrl=https://www.myuhc.com&sse=1591080470558&inTg=a&acr=false"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "rubiconproject.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "69.173.159.25",
+          "IncludeInScript": true,
+          "Name": "pixel.rubiconproject.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 125,
+              "EventId": 852,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://pixel.rubiconproject.com/tap.php?v=8981&nid=2307&put=1f37d1c9-ba2a-4492-8488-f92acfe21b20&expires=30&next=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Frubicon"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "presage.io",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.35.217.248",
+          "IncludeInScript": true,
+          "Name": "ext-inv-cdn.presage.io",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 203,
+              "EventId": 789,
+              "HttpStatus": 200,
+              "Size": 35,
+              "URL": "https://ext-inv-cdn.presage.io/pv/img.gif?url=myuhc.com"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "omtrdc.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.127.247.252",
+          "IncludeInScript": true,
+          "Name": "unitedhealthgroup.tt.omtrdc.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 110,
+              "EventId": 530,
+              "HttpStatus": 200,
+              "Size": 186,
+              "URL": "https://unitedhealthgroup.tt.omtrdc.net/rest/v1/delivery?client=unitedhealthgroup&sessionId=e7b89aab91904d43b4645bb0fc774250&version=2.1.0"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "myuhc.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "149.111.148.147",
+          "IncludeInScript": true,
+          "Name": "www.myuhc.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 437,
+              "EventId": 728,
+              "HttpStatus": 200,
+              "Size": 3214,
+              "URL": "https://www.myuhc.com/member/dynaTraceMonitor?type=js&session=B3DF9A6AC31883ED45D3C1C8B4D628B1%7CbXlVSEN8MXxNeVVIQzJ8MQ&flavor=post&referer=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&modifiedSince=1585332593548&app=myUHC"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 593,
+              "EventId": 491,
+              "HttpStatus": 200,
+              "Size": 2082,
+              "URL": "https://www.myuhc.com/member/dynaTraceMonitor?type=js&session=B3DF9A6AC31883ED45D3C1C8B4D628B1%7CbXlVSEN8MQ&flavor=post&referer=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&modifiedSince=1585332593548&app=myUHC"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 594,
+              "EventId": 405,
+              "HttpStatus": 200,
+              "Size": 222590,
+              "URL": "https://www.myuhc.com/member/themes/html/portal/images/prelogin/desk.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 609,
+              "EventId": 403,
+              "HttpStatus": 200,
+              "Size": 66812,
+              "URL": "https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-Regular.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/plain",
+              "DownloadTime": 312,
+              "EventId": 399,
+              "HttpStatus": 200,
+              "Size": 67088,
+              "URL": "https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-SemiBold.woff"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 609,
+              "EventId": 301,
+              "HttpStatus": 200,
+              "Size": 1506,
+              "URL": "https://www.myuhc.com/member/dynaTraceMonitor?type=js&session=B3DF9A6AC31883ED45D3C1C8B4D628B1%7CbXlVSEN8MQ&flavor=post&referer=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&modifiedSince=1585332593548&app=myUHC"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 547,
+              "EventId": 297,
+              "HttpStatus": 200,
+              "Size": 2062,
+              "URL": "https://www.myuhc.com/member/themes/html/portal/images/prelogin/sectigo_trust_seal_md.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/jpeg",
+              "DownloadTime": 375,
+              "EventId": 258,
+              "HttpStatus": 200,
+              "Size": 4544,
+              "URL": "https://www.myuhc.com/content/myuhc/Member/Assets/Images/u440.jpg"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 313,
+              "EventId": 207,
+              "HttpStatus": 200,
+              "Size": 1026381,
+              "URL": "https://www.myuhc.com/member/themes/html/portal/en/prelogin/prelogin.css"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 313,
+              "EventId": 199,
+              "HttpStatus": 200,
+              "Size": 53293,
+              "URL": "https://www.myuhc.com/dtagent_ICASTVjpqtx_7000200211025.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 344,
+              "EventId": 60,
+              "HttpStatus": 200,
+              "Size": 56856,
+              "URL": "https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "149.111.148.137",
+          "IncludeInScript": true,
+          "Name": "prd.myuhc.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 610,
+              "EventId": 407,
+              "HttpStatus": 200,
+              "Size": 515,
+              "URL": "https://prd.myuhc.com/apps/myuhc/logout"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "iperceptions.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "152.199.39.108",
+          "IncludeInScript": true,
+          "Name": "universal.iperceptions.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 16,
+              "EventId": 911,
+              "HttpStatus": 200,
+              "Size": 3672,
+              "URL": "https://universal.iperceptions.com/core/IpEngine_v77.4.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 886,
+              "HttpStatus": 200,
+              "Size": 681,
+              "URL": "https://universal.iperceptions.com/iFrame.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 15,
+              "EventId": 536,
+              "HttpStatus": 200,
+              "Size": 3033,
+              "URL": "https://universal.iperceptions.com/wrapper.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "52.229.205.221",
+          "IncludeInScript": true,
+          "Name": "api.iperceptions.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/json",
+              "DownloadTime": 156,
+              "EventId": 909,
+              "HttpStatus": 200,
+              "Size": 241,
+              "URL": "https://api.iperceptions.com/InviteTriggers"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 141,
+              "EventId": 905,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "https://api.iperceptions.com/InviteTriggers"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "gstatic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.167.35",
+          "IncludeInScript": true,
+          "Name": "ssl.gstatic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 657,
+              "EventId": 67,
+              "HttpStatus": 200,
+              "Size": 77948,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "application/octet-stream",
+              "DownloadTime": 31,
+              "EventId": 57,
+              "HttpStatus": 200,
+              "Size": 77948,
+              "URL": "https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googletagmanager.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.161.8",
+          "IncludeInScript": true,
+          "Name": "www.googletagmanager.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "br",
+              "DataType": "application/javascript",
+              "DownloadTime": 110,
+              "EventId": 539,
+              "HttpStatus": 200,
+              "Size": 33170,
+              "URL": "https://www.googletagmanager.com/gtag/js?id=AW-801664645"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.167.195",
+          "IncludeInScript": true,
+          "Name": "clientservices.googleapis.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 516,
+              "EventId": 55,
+              "HttpStatus": 304,
+              "Size": 0,
+              "URL": "https://clientservices.googleapis.com/chrome-variations/seed?osname=win&channel=stable&milestone=83"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleadservices.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.160.226",
+          "IncludeInScript": true,
+          "Name": "www.googleadservices.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 125,
+              "EventId": 612,
+              "HttpStatus": 200,
+              "Size": 10882,
+              "URL": "https://www.googleadservices.com/pagead/conversion_async.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.166.2",
+          "IncludeInScript": true,
+          "Name": "adservice.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 140,
+              "EventId": 669,
+              "HttpStatus": 200,
+              "Size": 455,
+              "URL": "https://adservice.google.com/ddm/fls/i/dc_pre=CJnWp9zE4ukCFUdzYAod9KQDhw;src=8584968;type=eiutv0;cat=lpg_e05w;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=9713139015667.506;~oref=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5d6633f264746d7476000970.html"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "216.58.196.109",
+          "IncludeInScript": true,
+          "Name": "accounts.google.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 172,
+              "EventId": 46,
+              "HttpStatus": 200,
+              "Size": 264,
+              "URL": "https://accounts.google.com/ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "google.co.in",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.166.2",
+          "IncludeInScript": true,
+          "Name": "adservice.google.co.in",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 687,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://adservice.google.co.in/ddm/fls/i/dc_pre=CJnWp9zE4ukCFUdzYAod9KQDhw;src=8584968;type=eiutv0;cat=lpg_e05w;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=9713139015667.506;~oref=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5d6633f264746d7476000970.html"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "facebook.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "31.13.79.26",
+          "IncludeInScript": true,
+          "Name": "connect.facebook.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 46,
+              "EventId": 587,
+              "HttpStatus": 200,
+              "Size": 37612,
+              "URL": "https://connect.facebook.net/signals/config/1231592023559249?v=2.9.18&r=stable"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 15,
+              "EventId": 518,
+              "HttpStatus": 200,
+              "Size": 31766,
+              "URL": "https://connect.facebook.net/en_US/fbevents.js"
+            }
+          ],
+          "SSLCipher": "TLS_CHACHA20_POLY1305_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "facebook.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "157.240.198.35",
+          "IncludeInScript": true,
+          "Name": "www.facebook.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 16,
+              "EventId": 818,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://www.facebook.com/tr/?id=1231592023559249&ev=myuhc%20Home%20Page%20-%20Site%20Visit&dl=https%3A%2F%2F8584968.fls.doubleclick.net%2Fddm%2Ffls%2Fr%2Fdc_pre%3DCJnWp9zE4ukCFUdzYAod9KQDhw%3Bsrc%3D8584968%3Btype%3Deiutv0%3Bcat%3Dlpg_e05w%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bnpa%3D%3Bord%3D9713139015667.506%3B~oref%3Dhttps%3A%2F%2Fassets.adobedtm.com%2Fbff7f95d5e60a9bb1bafa9115ce25108c698418f%2Fscripts%2Fsatellite-5d6633f264746d7476000970.html&rl=https%3A%2F%2Fadservice.google.com%2Fddm%2Ffls%2Fi%2Fdc_pre%3DCJnWp9zE4ukCFUdzYAod9KQDhw%3Bsrc%3D8584968%3Btype%3Deiutv0%3Bcat%3Dlpg_e05w%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bnpa%3D%3Bord%3D9713139015667.506%3B~oref%3Dhttps%3A%2F%2Fassets.adobedtm.com%2Fbff7f95d5e60a9bb1bafa9115ce25108c698418f%2Fscripts%2Fsatellite-5d6633f264746d7476000970.html&if=true&ts=1591080480742&sw=1366&sh=768&v=2.9.18&r=stable&ec=1&o=28&it=1591080479415&coo=false&rqm=GET"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 31,
+              "EventId": 740,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://www.facebook.com/tr/?id=1231592023559249&ev=LPG_E%26I_myuhc%20Home%20Page%20-%20Site%20Visit&dl=https%3A%2F%2F8584968.fls.doubleclick.net%2Fddm%2Ffls%2Fr%2Fdc_pre%3DCJnWp9zE4ukCFUdzYAod9KQDhw%3Bsrc%3D8584968%3Btype%3Deiutv0%3Bcat%3Dlpg_e05w%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bnpa%3D%3Bord%3D9713139015667.506%3B~oref%3Dhttps%3A%2F%2Fassets.adobedtm.com%2Fbff7f95d5e60a9bb1bafa9115ce25108c698418f%2Fscripts%2Fsatellite-5d6633f264746d7476000970.html&rl=https%3A%2F%2Fadservice.google.com%2Fddm%2Ffls%2Fi%2Fdc_pre%3DCJnWp9zE4ukCFUdzYAod9KQDhw%3Bsrc%3D8584968%3Btype%3Deiutv0%3Bcat%3Dlpg_e05w%3Bdc_lat%3D%3Bdc_rdid%3D%3Btag_for_child_directed_treatment%3D%3Btfua%3D%3Bnpa%3D%3Bord%3D9713139015667.506%3B~oref%3Dhttps%3A%2F%2Fassets.adobedtm.com%2Fbff7f95d5e60a9bb1bafa9115ce25108c698418f%2Fscripts%2Fsatellite-5d6633f264746d7476000970.html&if=true&ts=1591080479907&sw=1366&sh=768&v=2.9.18&r=stable&ec=0&o=28&it=1591080479415&coo=false&rqm=GET"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 32,
+              "EventId": 672,
+              "HttpStatus": 200,
+              "Size": 44,
+              "URL": "https://www.facebook.com/tr/?id=1231592023559249&ev=PageView&dl=https%3A%2F%2Fassets.adobedtm.com%2Fbff7f95d5e60a9bb1bafa9115ce25108c698418f%2Fscripts%2Fsatellite-5d7f98d764746d48050001fc.html&rl=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&if=true&ts=1591080470738&sw=1366&sh=768&v=2.9.18&r=stable&ec=0&o=28&it=1591080470301&coo=false&rqm=GET"
+            }
+          ],
+          "SSLCipher": "TLS_CHACHA20_POLY1305_SHA256",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "everesttech.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "66.117.25.58",
+          "IncludeInScript": true,
+          "Name": "cm.everesttech.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 141,
+              "EventId": 582,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://cm.everesttech.net/cm/dd?d_uuid=91371359483484773522421697872084181416"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "doubleclick.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.167.38",
+          "IncludeInScript": true,
+          "Name": "ad.doubleclick.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 157,
+              "EventId": 846,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://ad.doubleclick.net/ddm/activity/src=9351524;type=invmedia;cat=uhc_v0;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=1?"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.167.38",
+          "IncludeInScript": true,
+          "Name": "8584968.fls.doubleclick.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 141,
+              "EventId": 576,
+              "HttpStatus": 200,
+              "Size": 453,
+              "URL": "https://8584968.fls.doubleclick.net/activityi;dc_pre=CJnWp9zE4ukCFUdzYAod9KQDhw;src=8584968;type=eiutv0;cat=lpg_e05w;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=9713139015667.506?"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 156,
+              "EventId": 550,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://8584968.fls.doubleclick.net/activityi;src=8584968;type=eiutv0;cat=lpg_e05w;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=9713139015667.506?"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "demdex.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "3.6.13.115",
+          "IncludeInScript": true,
+          "Name": "unitedhealthgroup.demdex.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 62,
+              "EventId": 524,
+              "HttpStatus": 200,
+              "Size": 2785,
+              "URL": "https://unitedhealthgroup.demdex.net/dest5.html?d_nsid=0"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.154.152.67",
+          "IncludeInScript": true,
+          "Name": "dpm.demdex.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 47,
+              "EventId": 768,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://dpm.demdex.net/ibs:dpid=903&dpuuid=1aef8c52-233f-4da9-8563-b0631465a1f8&redir=https%3A%2F%2Fmatch.adsrvr.org%2Ftrack%2Fcmf%2Fgeneric%3Fttd_pid%3Daam"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 46,
+              "EventId": 603,
+              "HttpStatus": 200,
+              "Size": 42,
+              "URL": "https://dpm.demdex.net/ibs:dpid=411&dpuuid=XtX2LAAAAZcQDRBm"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/json",
+              "DownloadTime": 47,
+              "EventId": 393,
+              "HttpStatus": 200,
+              "Size": 310,
+              "URL": "https://dpm.demdex.net/id/rd?d_visid_ver=4.1.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=8E391C8B533058250A490D4D%40AdobeOrg&d_nsid=0&ts=1591080452018"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 62,
+              "EventId": 349,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://dpm.demdex.net/id?d_visid_ver=4.1.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=8E391C8B533058250A490D4D%40AdobeOrg&d_nsid=0&ts=1591080452018"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "cloudfront.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "99.86.55.25",
+          "IncludeInScript": true,
+          "Name": "d2oh4tlt9mrke9.cloudfront.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 47,
+              "EventId": 580,
+              "HttpStatus": 200,
+              "Size": 58509,
+              "URL": "https://d2oh4tlt9mrke9.cloudfront.net/Record/js/sessioncam.recorder.js"
+            }
+          ],
+          "SSLCipher": "",
+          "SSLVersion": ""
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "bing.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "204.79.197.200",
+          "IncludeInScript": true,
+          "Name": "bat.bing.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 141,
+              "EventId": 564,
+              "HttpStatus": 204,
+              "Size": 0,
+              "URL": "https://bat.bing.com/action/0?ti=28088867&Ver=2&mid=5e3bec77-7998-3af6-1f19-94951a954fc9&sid=04ded512-3435-9e0d-df9c-87607298d98c&pi=1200101525&lg=en-IN&sw=1366&sh=768&sc=24&tl=myuhc%20-%20Member%20Login%20%7C%20UnitedHealthcare&p=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&r=&lt=36490&evt=pageLoad&msclkid=N&sv=1&rn=433562"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 125,
+              "EventId": 456,
+              "HttpStatus": 200,
+              "Size": 7767,
+              "URL": "https://bat.bing.com/bat.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES256-GCM-SHA384",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "advertising.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "54.254.148.135",
+          "IncludeInScript": true,
+          "Name": "pixel.advertising.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 93,
+              "EventId": 820,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://pixel.advertising.com/ups/55953/sync?uid=1f37d1c9-ba2a-4492-8488-f92acfe21b20&_origin=1&gdpr=0&gdpr_consent=&verify=true"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 94,
+              "EventId": 796,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://pixel.advertising.com/ups/55953/sync?uid=1f37d1c9-ba2a-4492-8488-f92acfe21b20&_origin=1&gdpr=0&gdpr_consent="
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adsrvr.org",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "18.139.144.72",
+          "IncludeInScript": true,
+          "Name": "match.adsrvr.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 109,
+              "EventId": 876,
+              "HttpStatus": 302,
+              "Size": 397,
+              "URL": "https://match.adsrvr.org/track/cmf/rightmedia?xid=fIkh_YyE8WqD7hLwrhGK0hyz&gdpr=0&gdpr_consent&ttd_tdid=1f37d1c9-ba2a-4492-8488-f92acfe21b20"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 93,
+              "EventId": 860,
+              "HttpStatus": 302,
+              "Size": 369,
+              "URL": "https://match.adsrvr.org/track/cmf/rubicon"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 822,
+              "HttpStatus": 302,
+              "Size": 367,
+              "URL": "https://match.adsrvr.org/track/cmf/generic?ttd_pid=aam"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        },
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.229.188.209",
+          "IncludeInScript": true,
+          "Name": "insight.adsrvr.org",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 78,
+              "EventId": 748,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://insight.adsrvr.org/track/pxl/?adv=vrwywxs&ct=0:amp83jq&fmt=3"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "",
+              "DownloadTime": 109,
+              "EventId": 744,
+              "HttpStatus": 302,
+              "Size": 0,
+              "URL": "https://insight.adsrvr.org/track/pxl/?adv=u6v535m&ct=0:w0vqunc&fmt=3"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adobedtm.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "23.222.31.112",
+          "IncludeInScript": true,
+          "Name": "assets.adobedtm.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 63,
+              "EventId": 482,
+              "HttpStatus": 200,
+              "Size": 14060,
+              "URL": "https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/s-code-contents-204eb6f41a16512e2cec480a1e4365a68a6e0559.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 390,
+              "HttpStatus": 200,
+              "Size": 685,
+              "URL": "https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5dcbb7e264746d1de1000c92.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 31,
+              "EventId": 388,
+              "HttpStatus": 200,
+              "Size": 901,
+              "URL": "https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5d7f98d764746d48050001fc.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/html",
+              "DownloadTime": 16,
+              "EventId": 368,
+              "HttpStatus": 200,
+              "Size": 1013,
+              "URL": "https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5d6633f264746d7476000970.html"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 16,
+              "EventId": 347,
+              "HttpStatus": 200,
+              "Size": 156,
+              "URL": "https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5c78cf6764746d2e250020e5.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 31,
+              "EventId": 339,
+              "HttpStatus": 200,
+              "Size": 31310,
+              "URL": "https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/mbox-contents-1e2a841771842742bdabbf0f863482c9e351d19a.js"
+            },
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/x-javascript",
+              "DownloadTime": 141,
+              "EventId": 248,
+              "HttpStatus": 200,
+              "Size": 44253,
+              "URL": "https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/satelliteLib-85c2781f950b69c2a77a65b9f55d4fc67ca51af3.js"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adobe.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "13.232.177.101",
+          "IncludeInScript": true,
+          "Name": "sstats.adobe.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 197,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s28923599903795?AQB=1&ndh=1&pf=1&t=2%2F5%2F2020%2012%3A17%3A4%202%20-330&fid=0A20F272179E219E-1E769922E7908C55&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.1.5&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 47,
+              "EventId": 195,
+              "HttpStatus": 200,
+              "Size": 43,
+              "URL": "https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s21806491467246?AQB=1&ndh=1&pf=1&t=2%2F5%2F2020%2012%3A17%3A4%202%20-330&fid=0A20F272179E219E-1E769922E7908C55&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.1.5&v2=sideload&v3=prod&v4=unknown&AQE=1"
+            }
+          ],
+          "SSLCipher": "TLS_AES_256_GCM_SHA384",
+          "SSLVersion": "TLS1.3"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "adnxs.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "103.43.90.55",
+          "IncludeInScript": true,
+          "Name": "secure.adnxs.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "application/javascript",
+              "DownloadTime": 93,
+              "EventId": 794,
+              "HttpStatus": 200,
+              "Size": 313,
+              "URL": "https://secure.adnxs.com/bounce?%2Fpx%3Fid%3D1174148%26seg%3D19522860%26t%3D1"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 94,
+              "EventId": 786,
+              "HttpStatus": 307,
+              "Size": 0,
+              "URL": "https://secure.adnxs.com/px?id=1174148&seg=19522860&t=1"
+            }
+          ],
+          "SSLCipher": "ECDHE-ECDSA-AES128-GCM-SHA256",
+          "SSLVersion": "TLS1.2"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 6
+}

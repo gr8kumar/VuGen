@@ -1,0 +1,10 @@
+HTTP/2.0 200
+Status: 200
+date: Tue, 02 Jun 2020 07:11:37 GMT
+content-type: application/json;charset=UTF-8
+vary: Origin,Accept-Encoding
+content-encoding: gzip
+access-control-allow-origin: https://www.myuhc.com
+access-control-allow-credentials: true
+x-request-id: 23cda6c9d04092820a93529703bd8e65
+

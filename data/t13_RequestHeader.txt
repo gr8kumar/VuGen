@@ -1,0 +1,15 @@
+POST /rest/v1/delivery?client=unitedhealthgroup&sessionId=e7b89aab91904d43b4645bb0fc774250&version=2.1.0 HTTP/1.1
+Host: unitedhealthgroup.tt.omtrdc.net
+Connection: keep-alive
+Content-Length: 854
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Content-Type: text/plain
+Accept: */*
+Origin: https://www.myuhc.com
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5
+

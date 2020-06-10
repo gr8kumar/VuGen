@@ -1,0 +1,42 @@
+[t3]
+RequestBodyFile=t3_RequestBody.txt
+URL10=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s28923599903795?AQB=1&ndh=1&pf=1&t=2/5/2020 12:17:4 2 -330&fid=0A20F272179E219E-1E769922E7908C55&ce=UTF-8&pageName=DCBrowserExt:OS:win:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.1.5&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL11=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s21806491467246?AQB=1&ndh=1&pf=1&t=2/5/2020 12:17:4 2 -330&fid=0A20F272179E219E-1E769922E7908C55&ce=UTF-8&pageName=DCBrowserExt:Extension:Startup:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.1.5&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL12=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/satelliteLib-85c2781f950b69c2a77a65b9f55d4fc67ca51af3.js
+URL13=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb
+URL14=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb
+SaveSnapshotResources=1
+FileName11=t3_3_adbcreatepdfplugin.gif
+FileName10=t3_4_adbcreatepdfplugin.gif
+FileName13=t3_1_client_model_v5_ext_variation_0.UNK
+FileName12=t3_2_satelliteLib-85c2781f950b69c2a77a65b9f55d4fc67ca51af3.js
+RequestHeaderFile=t3_RequestHeader.txt
+RawStepStartTime=1591081847993
+FileName14=t2_0_client_model_v5_variation_0.UNK
+ContentType=text/html
+RawStepName=prewelcome.do
+FrameIndex2=0.0
+ResponseHeaderFile=t3_ResponseHeader.txt
+RawStepEndTime=1591081865288
+UseFrameIndex=1
+SnapshotXmlFile=snapshot_3.xml
+Total=14
+URL1=https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en
+URL2=https://prd.myuhc.com/apps/myuhc/logout
+URL3=https://prd.myuhc.com/dtagent_ICASTVjpqtx_7000200211025.js
+URL4=https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-SemiBold.woff
+URL5=https://www.myuhc.com/content/myuhc/Member/Assets/Images/u440.jpg
+FileName1=t3.html
+URL6=https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-Regular.woff
+URL7=https://www.myuhc.com/dtagent_ICASTVjpqtx_7000200211025.js
+FileName3=t3_11_dtagent_ICASTVjpqtx_7000200211025.js
+URL8=https://www.myuhc.com/member/themes/html/portal/en/prelogin/prelogin.css
+URL9=https://www.myuhc.com/member/themes/html/portal/images/prelogin/sectigo_trust_seal_md.png
+FileName2=t3f0.html
+FileName5=t3_9_u440.jpg
+FileName4=t3_10_UHCSans-SemiBold.html
+FileName7=t3_7_dtagent_ICASTVjpqtx_7000200211025.js
+FileName6=t3_8_UHCSans-Regular.html
+FileName9=t3_5_sectigo_trust_seal_md.png
+FileName8=t3_6_prelogin.css
+StepName=Url: prewelcome.do

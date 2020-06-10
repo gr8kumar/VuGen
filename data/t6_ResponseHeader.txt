@@ -1,0 +1,15 @@
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Content-Type: text/html
+ETag: "839c95bd1e27ca7a527ba8500eb16aec:1590684610.325827"
+Last-Modified: Thu, 28 May 2020 16:50:10 GMT
+Server: AkamaiNetStorage
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=3600
+Expires: Tue, 02 Jun 2020 07:47:58 GMT
+Date: Tue, 02 Jun 2020 06:47:58 GMT
+Content-Length: 1013
+Connection: keep-alive
+Timing-Allow-Origin: *
+

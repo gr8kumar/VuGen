@@ -1,0 +1,13 @@
+GET /action/0?ti=28088867&Ver=2&mid=5e3bec77-7998-3af6-1f19-94951a954fc9&sid=04ded512-3435-9e0d-df9c-87607298d98c&pi=1200101525&lg=en-IN&sw=1366&sh=768&sc=24&tl=myuhc%20-%20Member%20Login%20%7C%20UnitedHealthcare&p=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&r=&lt=36490&evt=pageLoad&msclkid=N&sv=1&rn=433562 HTTP/1.1
+Host: bat.bing.com
+Connection: keep-alive
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept: image/webp,image/apng,image/*,*/*;q=0.8
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: image
+Referer: https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Cookie: MUID=2DDD7D750BA46509317F73A80AA264C3; MR=0; MR2=0
+

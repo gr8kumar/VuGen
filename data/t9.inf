@@ -1,0 +1,17 @@
+[t9]
+FileName1=t9_rd.json
+URL1=https://dpm.demdex.net/id/rd?d_visid_ver=4.1.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgid=8E391C8B533058250A490D4D%40AdobeOrg&d_nsid=0&ts=1591080452018
+Total=4
+ContentType=application/json
+SnapshotXmlFile=snapshot_9.xml
+RequestHeaderFile=t9_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t9_ResponseHeader.txt
+FileName2=t9_UHCSans-SemiBold.txt
+URL2=https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-SemiBold.woff
+FileName3=t9_UHCSans-Regular.txt
+URL3=https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-Regular.woff
+FileName4=t9_desk.jpg
+URL4=https://www.myuhc.com/member/themes/html/portal/images/prelogin/desk.jpg
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,42 @@
+[t6]
+RequestBodyFile=t6_RequestBody.txt
+URL10=https://www.myuhc.com/member/themes/html/portal/images/prelogin/sectigo_trust_seal_md.png
+URL11=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/satelliteLib-85c2781f950b69c2a77a65b9f55d4fc67ca51af3.js
+URL12=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s21806491467246?AQB=1&ndh=1&pf=1&t=2/5/2020 12:17:4 2 -330&fid=0A20F272179E219E-1E769922E7908C55&ce=UTF-8&pageName=DCBrowserExt:Extension:Startup:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.1.5&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL13=https://sstats.adobe.com/b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s28923599903795?AQB=1&ndh=1&pf=1&t=2/5/2020 12:17:4 2 -330&fid=0A20F272179E219E-1E769922E7908C55&ce=UTF-8&pageName=DCBrowserExt:OS:win:Op&g=chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/_generated_background_page.html&v1=15.1.1.5&v2=sideload&v3=prod&v4=unknown&AQE=1
+URL14=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_ext_variation_0.pb
+URL15=https://ssl.gstatic.com/safebrowsing/csd/client_model_v5_variation_0.pb
+SaveSnapshotResources=1
+FileName11=t3_4_satelliteLib-85c2781f950b69c2a77a65b9f55d4fc67ca51af3.js
+FileName10=t3_5_sectigo_trust_seal_md.png
+FileName13=t3_2_adbcreatepdfplugin.gif
+FileName12=t3_3_adbcreatepdfplugin.gif
+RequestHeaderFile=t6_RequestHeader.txt
+FileName15=t2_0_client_model_v5_variation_0.UNK
+RawStepStartTime=1591081552271
+FileName14=t3_1_client_model_v5_ext_variation_0.UNK
+ContentType=text/html
+RawStepName=satellite-5d6633f264746d7476000970.html
+ResponseHeaderFile=t6_ResponseHeader.txt
+RawStepEndTime=1591081552452
+SnapshotXmlFile=snapshot_6.xml
+Total=15
+URL1=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5d6633f264746d7476000970.html
+URL2=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5c78cf6764746d2e250020e5.js
+URL3=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/mbox-contents-1e2a841771842742bdabbf0f863482c9e351d19a.js
+URL4=https://prd.myuhc.com/dtagent_ICASTVjpqtx_7000200211025.js
+URL5=https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-Regular.woff
+FileName1=t6.html
+URL6=https://www.myuhc.com/content/myuhc/Member/Assets/Images/u440.jpg
+URL7=https://www.myuhc.com/member/themes/html/portal/en/prelogin/fonts/UHCSans-SemiBold.woff
+FileName3=t4_12_mbox-contents-1e2a841771842742bdabbf0f863482c9e351d19a.js
+URL8=https://www.myuhc.com/dtagent_ICASTVjpqtx_7000200211025.js
+URL9=https://www.myuhc.com/member/themes/html/portal/en/prelogin/prelogin.css
+FileName2=t4_13_satellite-5c78cf6764746d2e250020e5.js
+FileName5=t3_10_UHCSans-Regular.html
+FileName4=t3_11_dtagent_ICASTVjpqtx_7000200211025.js
+FileName7=t3_8_UHCSans-SemiBold.html
+FileName6=t3_9_u440.jpg
+FileName9=t3_6_prelogin.css
+FileName8=t3_7_dtagent_ICASTVjpqtx_7000200211025.js
+StepName=Url: satellite-5d6633f264746d7476000970.html

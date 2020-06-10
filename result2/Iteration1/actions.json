@@ -1,0 +1,100 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: ListAccounts",
+                "infFile": "t1.inf",
+                "time": 1591081846793
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Url: prewelcome.do",
+                "infFile": "t3.inf",
+                "time": 1591081865375
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: dynaTraceMonitor",
+                "infFile": "t4.inf",
+                "time": 1591081866073
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Url: logout",
+                "infFile": "t5.inf",
+                "time": 1591081867279
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Url: satellite-5d6633f264746d7476000970.html",
+                "infFile": "t6.inf",
+                "time": 1591081867347
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Url: satellite-5d7f98d764746d48050001fc.html",
+                "infFile": "t7.inf",
+                "time": 1591081868014
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: satellite-5dcbb7e264746d1de1000c92.html",
+                "infFile": "t8.inf",
+                "time": 1591081868415
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: id",
+                "infFile": "t9.inf",
+                "time": 1591081871490
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Url: logout_2",
+                "infFile": "t10.inf",
+                "time": 1591081874294
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: dynaTraceMonitor_2",
+                "infFile": "t11.inf",
+                "time": 1591081874739
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Url: dest5.html",
+                "infFile": "t12.inf",
+                "time": 1591081875160
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: delivery",
+                "infFile": "t13.inf",
+                "time": 1591081876661
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Url: 0",
+                "infFile": "t14.inf",
+                "time": 1591081877097
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Url: activityi;src=8584968;type=eiutv0;cat=lpg_e05w;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=;tfua=;npa=;ord=9713139015667.506",
+                "infFile": "t15.inf",
+                "time": 1591081898710
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "1_transaction",
+                "rawStartTime": 1591081846159,
+                "rawEndTime": 1591081898771,
+                "thinkTime": 0.0,
+                "wastedTime": 1.344175100326538
+            }
+        ]
+    }
+]

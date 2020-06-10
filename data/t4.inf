@@ -1,0 +1,15 @@
+[t4]
+FileName1=t4.html
+URL1=https://www.myuhc.com/member/dynaTraceMonitor?type=js&session=B3DF9A6AC31883ED45D3C1C8B4D628B1%7CbXlVSEN8MQ&flavor=post&referer=https%3A%2F%2Fwww.myuhc.com%2Fmember%2Fprewelcome.do%3FcurrentLanguageFromPreCheck%3Den&modifiedSince=1585332593548&app=myUHC
+Total=3
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=t4_RequestBody.txt
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_4.xml
+FileName2=t4_mbox-contents-1e2a841771842742bdabbf0f863482c9e351d19a.html
+URL2=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/mbox-contents-1e2a841771842742bdabbf0f863482c9e351d19a.js
+FileName3=t4_satellite-5c78cf6764746d2e250020e5.html
+URL3=https://assets.adobedtm.com/bff7f95d5e60a9bb1bafa9115ce25108c698418f/scripts/satellite-5c78cf6764746d2e250020e5.js
+[ProtocolInfo]
+ProtocolId=QTWeb

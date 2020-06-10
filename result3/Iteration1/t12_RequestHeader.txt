@@ -1,0 +1,14 @@
+GET /dest5.html?d_nsid=0 HTTP/1.1
+Referer: https://www.myuhc.com/member/prewelcome.do?currentLanguageFromPreCheck=en
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: cross-site
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.61 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: en-IN,en;q=0.9,hi-IN;q=0.8,hi;q=0.7,en-GB;q=0.6,en-US;q=0.5
+Accept: */*
+Connection: Keep-Alive
+Host: unitedhealthgroup.demdex.net
+Cookie: demdex=43791005231515102041528025554437906895
+

@@ -1,0 +1,11 @@
+[t5]
+FileName1=t5_logout.html
+URL1=https://api.member.uhc.com/rest/user/v1/session/logout
+Total=1
+ContentType=
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t5_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t5_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
